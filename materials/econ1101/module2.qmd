@@ -1,0 +1,36 @@
+---
+title: ""
+format: html
+---
+
+### Interactive Notes
+
+Interactive Notes are the primary instructional materials I create for my classes. They are designed to promote active engagement and help students take organized, concept‑driven notes that reinforce their understanding of core economic principles.
+
+<iframe src="Econ1101_F25_IN2_Trade.pdf" width="70%" height="700">
+
+</iframe>
+
+<p style="text-align:left; font-size:0.7em;">
+
+<a href="Econ1101_F25_IN2_Trade.pdf" target="_blank"> Click here to view full‑size version</a>
+
+</p>
+
+<br>
+
+------------------------------------------------------------------------
+
+### Problem Set
+
+Problem Sets are more than practice questions. They are designed to foster collaboration and active learning as students work together in small groups to analyze economic problems, compare their reasoning, and discuss solutions during class.
+
+<iframe src="Econ1101B_F25_PS1.pdf" width="70%" height="700">
+
+</iframe>
+
+<p style="text-align:left; font-size:0.7em;">
+
+<a href="Econ1101B_F25_PS1.pdf" target="_blank"> Click here to view full‑size version</a>
+
+</p>

@@ -1,0 +1,13 @@
+---
+title: ""
+format: html
+---
+
+
+<iframe src="Econ1101_F25_IN1_Intro.pdf" width="70%" height="700"></iframe>
+
+<p style="text-align:left; font-size:0.7em;">
+
+<a href="Econ1101_F25_IN2_Trade.pdf" target="_blank"> Click here to view full‑size version</a>
+
+</p>

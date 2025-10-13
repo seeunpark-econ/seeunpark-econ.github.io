@@ -1,0 +1,12 @@
+---
+title: ""
+format: html
+---
+
+
+<iframe src="ECON1101_Fall2025_Syllabus.pdf" width="70%" height="700"></iframe>
+<p style="text-align:left; font-size:0.7em;">
+
+<a href="ECON1101_Fall2025_Syllabus.pdf" target="_blank"> Click here to view full‑size version</a>
+
+</p>

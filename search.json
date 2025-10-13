@@ -7,11 +7,56 @@
     "text": "Welcome to my teaching portfolio.\nUse the sidebar to explore my current courses at Bowdoin, past courses I taught as a TA at UCR, and student evaluations."
   },
   {
+    "objectID": "econ108.html",
+    "href": "econ108.html",
+    "title": "ECON 108: Introductory Econometrics",
+    "section": "",
+    "text": "This elective upper‑division course enrolled about 30–35 students. As the sole TA, I led both discussion and lab sessions, graded assignments and exams, and helped students with their regression projects. The small class size allowed me to apply my teaching philosophy by sharing enthusiasm for the subject and offering personalized support often missing in larger courses at UCR.\n \n\n Click here to view full‑size version",
+    "crumbs": [
+      "Home",
+      "Past Courses",
+      "ECON 108"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Seeun Park",
     "section": "",
-    "text": "Pronounced: “SEH-n” (“n” as in the end of risen)\n\n\n\nI am an applied microeconomist with a PhD in Economics from the University of California, Riverside. My research explores the intersection of health, labor, and public economics, focusing on how policies and regulations shape social and economic outcomes.\nI am also passionate about teaching and was honored with UC Riverside’s Distinguished Teaching Award in 2025.\nI am currently a Visiting Assistant Professor of Economics at Bowdoin College (2025–2026).\nExplore this site to learn more about my CV, research, and teaching.\nEmail:"
+    "text": "Pronounced: “SEH-n” (“n” as in the end of risen)\n\n\n\nI am an applied microeconomist with a PhD in Economics from the University of California, Riverside. My research explores the intersection of health, labor, and public economics, focusing on how policies and regulations shape social and economic outcomes.\nI am also passionate about teaching and was honored with UC Riverside’s Distinguished Teaching Award in 2025.\nI am currently a Visiting Assistant Professor of Economics at Bowdoin College.\nExplore this site to learn more about my CV, research, and teaching.\nEmail:"
+  },
+  {
+    "objectID": "materials/econ1101/module2.html",
+    "href": "materials/econ1101/module2.html",
+    "title": "Seeun Park",
+    "section": "",
+    "text": "Interactive Notes\nInteractive Notes are the primary instructional materials I create for my classes. They are designed to promote active engagement and help students take organized, concept‑driven notes that reinforce their understanding of core economic principles.\n\n\n\n Click here to view full‑size version\n\n\n\n\n\nProblem Set\nProblem Sets are more than practice questions. They are designed to foster collaboration and active learning as students work together in small groups to analyze economic problems, compare their reasoning, and discuss solutions during class.\n\n\n\n Click here to view full‑size version",
+    "crumbs": [
+      "Home",
+      "Current Courses",
+      "ECON 1101",
+      "Module 2"
+    ]
+  },
+  {
+    "objectID": "materials/econ1101/syllabus.html",
+    "href": "materials/econ1101/syllabus.html",
+    "title": "Seeun Park",
+    "section": "",
+    "text": "Click here to view full‑size version",
+    "crumbs": [
+      "Home",
+      "Current Courses",
+      "ECON 1101",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Seeun Park",
+    "section": "",
+    "text": "Visiting Assistant Professor, Bowdoin College\n\nECON 1101: Principles of Microeconomics (Fall 2025)\nECON 3541: Health Economics (Scheduled Spring 2026)\n\n\nTeaching Assistant, UC Riverside\nDistinguished Teaching Award* (2025)\nOutstanding Teaching Assistant Award (2021, 2025)\n\nEcon 108: Introductory Econometrics (Spring 2020, 2021, 2022; Winter 2025)\nEcon 104B: Intermediate Microeconomic Theory (Winter 2024)\nEcon 101: Statistics for Economics (Spring 2023, Fall 2023, Spring 2024)\nEcon 003: Introduction to Microeconomics (Fall 2019, 2020, 2021, 2022; Winter 2019, 2020, 2021, 2022)\n\n\n*Distinguished Teaching Award is a highly competitive honor granted by UCR’s Graduate Division to only two-three graduate students each year in recognition of exceptional teaching.\n\n\n\n\n\n\n\nTeaching Portfolio\n\n\n\nSee my Teaching Portfolio using the sidebar on the left."
   },
   {
     "objectID": "research.html",
@@ -21,11 +66,23 @@
     "text": "Job Market Paper\n - Policy, Substance Use Disorder Treatment Access, and Overdose Deaths\nAbstract: The Affordable Care Act of 2010 (ACA) expanded access to substance use disorder treatment by extending insurance coverage and requiring plans to cover behavioral health services. This paper examines how the ACA affected the availability of residential substance use disorder treatment facilities and how this expansion reshaped the broader treatment landscape. Using county-level data from 2004 to 2016, I apply difference-in-differences and event study designs to estimate the ACA’s supply-side effects through two channels: private insurance reforms and Medicaid expansions. I find that the number of residential treatment facilities per 100,000 population increased by 24 percent in counties with low pre-ACA saturation and by 15 percent in Medicaid expansion states. I also show that counties experiencing growth in residential treatment facilities saw declines in outpatient treatment availability, suggesting substitution across treatment settings. Moreover, growth was concentrated in areas that already had residential treatment providers, with limited expansion into previously unserved counties. Further, I find no evidence that the expansion of residential treatment facilities was associated with reductions in fatal or nonfatal overdose outcomes, suggesting limited benefits from this expansion.\n\n\n\n\nWorking Papers\n - Spillover Effects of Malpractice Disclosures on Physician Relocation\nAbstract: Malpractice incidents, once disclosed, may carry reputational consequences not only for the physician involved but also for colleagues in the same practice group. This paper examines whether public disclosure of a malpractice incident triggers relocation among peers. I construct a provider-level monthly panel (2015–2021) by linking Medical Board of California records with the National Provider Identifier files and estimate event study and difference-in-differences models. Peer relocation rises by about 0.1 percentage points, an 11 percent increase relative to baseline, following disclosure. While relocation is uncommon, the effect reflects a delayed adjustment, with the largest increases occurring 25–30 months after disclosure and re-emerging later. No effect is detected in annual models, indicating responses are infrequent and inconsistently timed. Similar analyses for felony or misdemeanor disclosures show no effect, suggesting malpractice disclosures are uniquely salient within professional networks, even if their influence on relocation decisions is limited.\n\n\n\nThe Effect of Building Affordable Housing on Student Mobility and Educational Spillovers\n\nAbstract: This project examines whether the Low-Income Housing Tax Credit (LIHTC) program improves residential stability for families with school-age children. Using administrative address records from North Carolina public school students, I construct a panel dataset and apply difference-in-differences and event study methods. Results show that both economically disadvantaged (ECD) and non-ECD students experience reduced short-term mobility after moving into LIHTC neighborhoods, which tend to be more affordable than other areas. However, it remains unclear how much LIHTC housing itself contributes to stability. Additional analysis of repeat movers shows that families often leave LIHTC neighborhoods for higher-income communities after relatively short stays.\n\n\n\n\nPublications\n Park, S., & Go, S. (2018). Children’s Age and the Labor Supply of Married Women in Korea. Journal of Korean Economic Development, 24(4), 23-39. \nPark, S., & Go, S. (2018). The Effect of Children’s Age on Married Women’s Career Reinterruption. The Journal of Industrial Distribution & Business, 9(7), 43-52."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
+    "objectID": "materials/econ1101/module1.html",
+    "href": "materials/econ1101/module1.html",
     "title": "Seeun Park",
     "section": "",
-    "text": "Visiting Assistant Professor, Bowdoin College\n\nECON 1101: Principles of Microeconomics (Fall 2025)\n\n\nTeaching Assistant, UC Riverside\nDistinguished Teaching Award* (2025)\nOutstanding Teaching Assistant Award (2021, 2025)\n\nEcon 108: Introductory Econometrics (Spring 2020, 2021, 2022; Winter 2025)\nEcon 104B: Intermediate Microeconomic Theory (Winter 2024)\nEcon 101: Statistics for Economics (Spring 2023, Fall 2023, Spring 2024)\nEcon 003: Introduction to Microeconomics (Fall 2019, 2020, 2021, 2022; Winter 2019, 2020, 2021, 2022)\n\n*Distinguished Teaching Award is a highly competitive honor granted by UCR’s Graduate Division to only two-three graduate students each year in recognition of exceptional teaching.\n\n\n\n\n\n\n\nTeaching Portfolio\n\n\n\nSee my Teaching Portfolio using the sidebar on the left."
+    "text": "Click here to view full‑size version"
+  },
+  {
+    "objectID": "econ101.html",
+    "href": "econ101.html",
+    "title": "ECON 101: Statistics for Economics",
+    "section": "",
+    "text": "This course is the first upper‑division requirement for Economics majors and a prerequisite for Econometrics (Econ 107). Many students find it more challenging as the quarter progresses.\nMy goal was to make the material less intimidating and to explain key concepts clearly and in detail. I used relatable examples, analogies, and broader perspectives to connect ideas that students often found confusing. Each week, I reviewed core concepts, worked through the assigned problem set, and provided summary notes to help students grasp main ideas quickly.\nThe hand‑written notes below are examples I used in discussion sections after reviewing key concepts to ensure everyone was on the same page.\n\n\n\n\n Click here to view full‑size version",
+    "crumbs": [
+      "Home",
+      "Past Courses",
+      "ECON 101"
+    ]
   },
   {
     "objectID": "sidebar_test.html",
@@ -37,7 +94,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "title": "Seeun Park",
     "section": "",
     "text": "Download CV (PDF)\n\n\n\n\n\n\n\n\nIf the preview doesn’t load, use the download link above."
   }
