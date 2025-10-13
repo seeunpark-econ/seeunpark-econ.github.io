@@ -1,0 +1,20 @@
+---
+#title: "exams"
+format: html
+---
+
+### Exam Prep
+
+
+<br>
+Before each midterm and final, I led review sessions with **original practice questions** based on past exams. I used real datasets and research examples to make the review more engaging and applied.
+
+
+<br>
+<iframe src="Econ108_W25_Midterm_Final_Prep.pdf" width="70%" height="700">
+
+</iframe>
+
+<a href="Econ108_W25_Midterm_Final_Prep.pdf" target="_blank"> Click here to view full‑size version</a>
+
+<br>

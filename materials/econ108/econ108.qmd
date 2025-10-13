@@ -1,0 +1,10 @@
+---
+title: "ECON 108: Introductory Econometrics"
+---
+
+::: {.callout-note}
+## Course Overview
+This upper‑division elective enrolled about 30 students. As the sole TA, I led discussion and lab sessions, graded coursework, and guided students through their regression projects. **I developed original materials**, including practice problems, exam questions, lab examples, and project guidelines, to enhance engagement and support independent learning.
+
+*You can view sample teaching materials for this course using the links in the sidebar.*
+:::

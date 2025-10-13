@@ -1,0 +1,24 @@
+---
+#title: "lab"
+format: html
+---
+
+### Lab Session
+
+
+<br>
+In lab sessions, **I taught students to use Stata** to apply the empirical methods from class. I provided *individual feedback and shared example documents* noting common errors and effective practices.
+
+
+<br>
+<iframe src="Econ108_W25_Lab.pdf" width="70%" height="700">
+
+</iframe>
+
+<p style="text-align:left; font-size:0.7em;">
+
+<a href="Econ108_W25_Lab.pdf" target="_blank"> Click here to view full‑size version</a>
+
+</p>
+
+<br>

@@ -1,0 +1,22 @@
+---
+#title: "proj"
+format: html
+---
+
+#### Individual Project
+
+
+<br>
+Students completed independent research projects with structured milestones. For each stage, **I provided a detailed guideline** to support their progress and a full version released after submission as a reference for their final papers.
+
+
+<br>
+<iframe src="Econ108_W25_Project.pdf" width="70%" height="700">
+
+</iframe>
+
+<p style="text-align:left; font-size:0.7em;">
+
+<a href="Econ108_W25_Project.pdf" target="_blank"> Click here to view full‑size version</a>
+
+</p>
