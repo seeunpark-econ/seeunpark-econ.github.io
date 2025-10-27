@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://seeunpark-econ.github.io/sitemap.xml
